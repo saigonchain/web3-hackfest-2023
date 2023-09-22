@@ -1,4 +1,4 @@
-<h3 align="center">👋   Hello! Here is Saigon Chain Team  👋 <br/> "Saigon Chain Team" </h3>
+<h3 align="center">👋   Hello! Here is 👋 <br/> "Saigon Chain Team" </h3>
 
 <div id="badges" align="center">
   <a href="https://twitter.com/saigonchain">
